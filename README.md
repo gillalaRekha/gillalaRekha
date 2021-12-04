@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gillalaRekha
 - 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning Deep learning models
+- 🌱 I’m currently learning Deep learning models, Transfer learning
 - 💞️ I’m looking to collaborate on data pre-processing, machine learning, synthetic data generation, deep learning
 - 📫 How to reach me gillala.rekha@gmail.com
 
